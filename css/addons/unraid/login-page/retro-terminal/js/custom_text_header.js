@@ -1,6 +1,6 @@
 
  //Custom Text Header //
- // ACSII slant font
+ // ACSII blood
 
 // Needs to be inside <section id="login" class="shadow">
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
